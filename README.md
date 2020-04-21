@@ -1,1 +1,2 @@
-# test-cheat-grade-98
+# cpp-test
+Tests for C++ course
