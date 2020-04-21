@@ -26,7 +26,7 @@ TEST_CASE("Test replacement of p and b") {
     /* Add more checks here */
 }
 
-TEST_CASE("") {
+TEST_CASE("Grade: 99") {
     string text = "Happi xxx yyy";
     CHECK(find(text, "happi") == string("Happi"));
     CHECK(find(text, "Happi") == string("Happi"));
